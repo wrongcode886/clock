@@ -1,1 +1,1 @@
-# clock
+canvas 做的页面时钟，可以改变html内的canvas标签内的width和height来改变时钟大小
